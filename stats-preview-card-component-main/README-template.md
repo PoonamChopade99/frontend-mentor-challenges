@@ -23,12 +23,9 @@ Users should be able to:
 
 ### Screenshot
 #### Desktop View
-![](./screenshot.jpg)
+![desktop-view](https://user-images.githubusercontent.com/93971644/157064815-22ae6a28-699e-459d-8373-0e3de46febfb.png)
 #### Mobile View
-
-
-
-
+![mobile-view](https://user-images.githubusercontent.com/93971644/157064756-4bed00e8-1733-441a-86eb-6c841324b9f5.jpg)
 
 ## My process
 
@@ -55,3 +52,4 @@ To see how you can add code snippets, see below:
 ```
 
 ## Author
+- Frontend Mentor - [@PoonamChopade99](https://www.frontendmentor.io/profile/PoonamChopade99)
